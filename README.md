@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-Monty's Themes is a browser extension that adds beautiful, community-loved themes to <a href="https://www.montrose.io/">Montrose</a>.
+Monty's Themes adds beautiful, community-loved themes to <a href="https://www.montrose.io/">Montrose</a>.
 </p>
 
 > **Disclaimer:** Montys's Themes is an independent third-party browser extension and is not developed by, approved by, supported by, or affiliated with Montrose by Carnegie AB.
